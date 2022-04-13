@@ -1,7 +1,7 @@
-Esto es un car hud dise�ado por TS#3462. 
+Esto es un car hud diseñado por TS#3462. 
 Espero que les guste, si veis algo a cambiar decirmelo.
 
-?| Discord: https://discord.gg/xuRvUaeKCV
+・| Discord: https://discord.gg/xuRvUaeKCV
 
 [Preview]
 
