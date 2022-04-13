@@ -1,6 +1,6 @@
 # car-hud
 
-Buenas comunidad! Os dejo por aquí un car-hud que he realizado, espero que os guste. Hay teneis una previews de como es.
+Buenas comunidad! Os dejo por aquí un car-hud que he realizado, espero que os guste. Hay teneis unas previews de como es.
 
 ・| Discord: https://discord.gg/xuRvUaeKCV
 
